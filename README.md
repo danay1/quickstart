@@ -45,4 +45,4 @@ The output is `bin\Release\net462\QuickStart.exe`.
 
 ## License
 
-No license has been added yet.
+MIT — see [LICENSE](LICENSE).
